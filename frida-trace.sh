@@ -1,0 +1,1 @@
+frida-trace -j 'com.example.*!*' -U FridaTarget
